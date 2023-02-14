@@ -1,4 +1,4 @@
-### Self-motivated engineering graduate with a little experience (1+ year) in software engineering and Machine Learning. Proficient in Python, Machine Learning, HTML 5, JavaScript, and Flask. Ability to learn new software and technologies quickly. Capability to collaborate in groups while offering useful assistance. 👋
+Self-motivated engineering graduate with a little experience (1+ year) in software engineering and Machine Learning. Proficient in Python, Machine Learning, HTML 5, JavaScript, and Flask. Ability to learn new software and technologies quickly. Capability to collaborate in groups while offering useful assistance.
 
 <!--
 **tasmimul-huda/tasmimul-huda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
