@@ -5,8 +5,8 @@ Self-motivated engineering graduate with a little experience (1+ year) in softwa
 [kaggle](https://www.kaggle.com/tasmim)
 
 # kaggleNotebook
-[EuroSat classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn)
-[globalwheet_detection_YoloV8](https://www.kaggle.com/code/tasmim/globalwheet-detection-yolov8)
+- [EuroSat classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn)
+- [globalwheet_detection_YoloV8](https://www.kaggle.com/code/tasmim/globalwheet-detection-yolov8)
 
 <!--
 **tasmimul-huda/tasmimul-huda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
