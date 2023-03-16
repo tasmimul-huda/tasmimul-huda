@@ -6,6 +6,7 @@ Self-motivated engineering graduate with a little experience (1+ year) in softwa
 
 ### kaggleNotebook
 - [EuroSat classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn)
+- [EuroSAT Classification with Efficientnet](https://www.kaggle.com/code/tasmim/eurosat-classification-with-efficientnet)
 - [globalwheet_detection_YoloV8](https://www.kaggle.com/code/tasmim/globalwheet-detection-yolov8)
 
 <!--
