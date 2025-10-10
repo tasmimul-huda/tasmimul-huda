@@ -57,4 +57,11 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 
 ### 🏆 Kaggle Notebooks
 
+<!-- KAGGLE_SECTION_START -->
+## 🏆 My Kaggle Notebooks
+[![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
+- 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-55-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-46-blue?style=flat&logo=kaggle&logoColor=white)
+<!-- KAGGLE_SECTION_END -->
