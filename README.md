@@ -1,11 +1,16 @@
 # Hi there 👋, I'm Sayed Mohammed Tasmimul Huda
-Self-motivated engineering graduate with a little experience (4+ year) in software engineering and Machine Learning. Proficient in Python, Machine Learning, HTML 5, JavaScript, and Flask. Ability to learn new software and technologies quickly. Capability to collaborate in groups while offering useful assistance.
 
-### Find Me
+A passionate Software Engineer and Machine Learning practitioner with 4+ years of experience building scalable applications and AI solutions. Skilled in Python, Web Development, and Machine Learning. I love transforming complex problems into simple, efficient solutions while continuously learning new technologies.
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-mohammed-tasmimul-huda/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/tasmimul-huda)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/tasmimulhuda)
+
+---
 
 ## 🛠 Technologies & Tools
 
@@ -20,8 +25,9 @@ Self-motivated engineering graduate with a little experience (4+ year) in softwa
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
-![Langraph](https://img.shields.io/badge/Langraph-4B4B4B?style=flat&logo=github&logoColor=white) <!-- placeholder, no official logo -->
-
+![Langraph](https://img.shields.io/badge/Langraph-4B4B4B?style=flat&logo=github&logoColor=white) <!-- placeholder -->
+![Crew AI](https://img.shields.io/badge/CrewAI-4B4B4B?style=flat&logo=github&logoColor=white) <!-- placeholder -->
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -34,52 +40,42 @@ Self-motivated engineering graduate with a little experience (4+ year) in softwa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-### 🧠 AI & ML
-![Crew AI](https://img.shields.io/badge/CrewAI-4B4B4B?style=flat&logo=github&logoColor=white) <!-- placeholder -->
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
 ### 🔧 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 ![Tasmimul Huda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasmimul-huda&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmimul-huda&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
 
-### 🏆 Kaggle Notebooks
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
-
-- 🧠 [NeuralPS Xtra Data Augment MultiModels](https://www.kaggle.com/code/tasmim/neuralps-xtra-data-augment-multimodels) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)  
-- 🖼️ [EuroSat Classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)  
-- 🤖 [RSNA Training EfficientNet](https://www.kaggle.com/code/tasmim/rsna-training-efficientnet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)  
-- 📊 [Rules Classifier XGB/LR/LGBM/CAT](https://www.kaggle.com/code/tasmim/rules-classifier-xgb-lr-lgbm-cat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
-
-
+---
 
 ### 🏆 Kaggle Notebooks
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
-- 🖼️ [EuroSat Classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-25-blue?style=flat&logo=kaggle&logoColor=white) – Simple CNN for classifying EuroSat satellite images.
-- 🤖 [EuroSat Classification with EfficientNet](https://www.kaggle.com/code/tasmim/eurosat-classification-with-efficientnet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-18-blue?style=flat&logo=kaggle&logoColor=white) – High-accuracy classification using EfficientNet.
-- 🌾 [Global Wheat Detection YOLOv8](https://www.kaggle.com/code/tasmim/globalwheet-detection-yolov8) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-12-blue?style=flat&logo=kaggle&logoColor=white) – YOLOv8-based object detection for wheat crops.
+<!-- BEGIN KAGGLE NOTEBOOKS -->
+<!-- This section will be automatically updated by update_kaggle_votes.py -->
+- 🧠 [NeuralPS Xtra Data Augment MultiModels](https://www.kaggle.com/code/tasmim/neuralps-xtra-data-augment-multimodels) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
+- 🖼️ [EuroSat Classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
+- 🤖 [RSNA Training EfficientNet](https://www.kaggle.com/code/tasmim/rsna-training-efficientnet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
+- 📊 [Rules Classifier XGB/LR/LGBM/CAT](https://www.kaggle.com/code/tasmim/rules-classifier-xgb-lr-lgbm-cat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0E8A16?style=flat&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-00AABB?style=flat&logo=lightgbm&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF6600?style=flat&logo=catboost&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
+<!-- END KAGGLE NOTEBOOKS -->
 
+---
 
-<!--
-**tasmimul-huda/tasmimul-huda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏅 Achievements & Certifications
+- 🥇 Kaggle Competitions: Multiple top submissions  
+- 🎓 Machine Learning & AI: Coursera / DeepLearning.AI Certificates  
+- 💡 Contributed to Open Source: Flask, PyTorch projects  
 
-Here are some ideas to get you started:
+---
 
-
-- 🔭 I’m currently working on Deep L=Reinforcement Learning
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+- [RAG-as-a-Service](https://github.com/tasmimul-huda/raas) – Multi-source RAG pipeline with LangChain & vector DB.  
+- [Email Filtering Tool](https://github.com/tasmimul-huda/email-filter) – Search & classify emails by keywords.  
+- [Text-to-Speech System](https://github.com/tasmimul-huda/byakto-speech) – Real-time long speech synthesis using CNN.  
