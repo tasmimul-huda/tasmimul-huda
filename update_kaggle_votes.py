@@ -41,7 +41,7 @@ def fetch_notebook_by_ref(api, username, ref):
 def generate_kaggle_section(notebooks):
     """Generate the markdown section for Kaggle notebooks."""
     lines = [
-        "## 🏆 My Kaggle Notebooks",
+        # "## 🏆 My Kaggle Notebooks",
         f"[![Kaggle](https://img.shields.io/badge/Kaggle-{USERNAME}-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/{USERNAME})",
         "",
     ]
