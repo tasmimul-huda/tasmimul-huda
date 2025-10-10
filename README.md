@@ -51,11 +51,6 @@ Self-motivated engineering graduate with a little experience (4+ year) in softwa
 ![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
 
 ### 🏆 Kaggle Notebooks
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
-
-- 🖼️ EuroSat Classification CNN ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white) – Simple CNN for EuroSat images.
-- 🤖 EuroSat Classification with EfficientNet ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white) – EfficientNet for higher accuracy.
-- 🌾 Global Wheat Detection YOLOv8 ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white) – YOLOv8 object detection for wheat crops.
 
 
 ### 🏆 Kaggle Notebooks
