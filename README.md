@@ -46,19 +46,9 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Tasmimul Huda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasmimul-huda&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmimul-huda&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
-
----
-
-### 🏆 Kaggle Notebooks
 
 <!-- KAGGLE_SECTION_START -->
-## 🏆 My Kaggle Notebooks
+### 🏆 My Kaggle Notebooks
 [![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
 - 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=flat&logo=kaggle&logoColor=white)
@@ -68,3 +58,13 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 - 📘 [EuroSAT-fine tuned EfficientnetB2 and Augmentation](https://www.kaggle.com/tasmim/eurosat-fine-tuned-efficientnetb2-and-augmentation) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [Efficientnet+Spectrogram+SpecAugment +SKF+Training](https://www.kaggle.com/tasmim/efficientnet-spectrogram-specaugment-skf-training) ![Votes](https://img.shields.io/badge/Votes-12-blue?style=flat&logo=kaggle&logoColor=white)
 <!-- KAGGLE_SECTION_END -->
+
+
+---
+
+## 📊 GitHub Stats
+![Tasmimul Huda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasmimul-huda&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmimul-huda&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
+
+---
