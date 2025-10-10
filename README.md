@@ -56,26 +56,5 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 ---
 
 ### 🏆 Kaggle Notebooks
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
-<!-- BEGIN KAGGLE NOTEBOOKS -->
-<!-- This section will be automatically updated by update_kaggle_votes.py -->
-- 🧠 [NeuralPS Xtra Data Augment MultiModels](https://www.kaggle.com/code/tasmim/neuralps-xtra-data-augment-multimodels) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
-- 🖼️ [EuroSat Classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
-- 🤖 [RSNA Training EfficientNet](https://www.kaggle.com/code/tasmim/rsna-training-efficientnet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
-- 📊 [Rules Classifier XGB/LR/LGBM/CAT](https://www.kaggle.com/code/tasmim/rules-classifier-xgb-lr-lgbm-cat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0E8A16?style=flat&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-00AABB?style=flat&logo=lightgbm&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF6600?style=flat&logo=catboost&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
-<!-- END KAGGLE NOTEBOOKS -->
 
----
-
-## 🏅 Achievements & Certifications
-- 🥇 Kaggle Competitions: Multiple top submissions  
-- 🎓 Machine Learning & AI: Coursera / DeepLearning.AI Certificates  
-- 💡 Contributed to Open Source: Flask, PyTorch projects  
-
----
-
-## 📁 Projects
-- [RAG-as-a-Service](https://github.com/tasmimul-huda/raas) – Multi-source RAG pipeline with LangChain & vector DB.  
-- [Email Filtering Tool](https://github.com/tasmimul-huda/email-filter) – Search & classify emails by keywords.  
-- [Text-to-Speech System](https://github.com/tasmimul-huda/byakto-speech) – Real-time long speech synthesis using CNN.  
