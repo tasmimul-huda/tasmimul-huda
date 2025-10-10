@@ -1,39 +1,48 @@
-name: Update Kaggle Votes
+name: 🧠 Update Kaggle Votes
 
 on:
+  push:
+    branches: [main]  # ✅ Auto-run when you push to main
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allow manual trigger
+    - cron: '0 0 * * *' # ✅ Runs daily at midnight UTC
+  workflow_dispatch:     # ✅ Allows manual trigger
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+    - name: 🧾 Checkout repository
+      uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: 🐍 Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: 3.11
 
-    - name: Install dependencies
+    - name: 📦 Install dependencies
       run: pip install kaggle
 
-    - name: Configure Kaggle API
+    - name: 🔐 Configure Kaggle API credentials
       run: |
         mkdir -p ~/.kaggle
         echo "{\"username\":\"${{ secrets.KAGGLE_USERNAME }}\",\"key\":\"${{ secrets.KAGGLE_KEY }}\"}" > ~/.kaggle/kaggle.json
         chmod 600 ~/.kaggle/kaggle.json
 
-    - name: Update README with Kaggle votes
+    - name: 🧠 Run Kaggle update script
+      env:
+        KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
       run: python update_kaggle_votes.py
 
-    - name: Commit & push changes
+    - name: 🪄 Commit and push changes if any
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
         git add README.md
-        git commit -m "Update Kaggle votes"
-        git push
+        if git diff --cached --quiet; then
+          echo "✅ No changes to commit."
+        else
+          git commit -m "🔁 Auto-update Kaggle votes"
+          git push
+        fi
