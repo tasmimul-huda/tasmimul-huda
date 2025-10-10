@@ -1,0 +1,8 @@
+{
+    "notebooks": [
+        "https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels",
+        "https://www.kaggle.com/tasmim/eurosat-classification-cnn",
+        "https://www.kaggle.com/tasmim/rsna-training-efficientnet",
+        "https://www.kaggle.com/tasmim/rules-classifier-xgb-lr-lgbm-cat"
+    ]
+}
