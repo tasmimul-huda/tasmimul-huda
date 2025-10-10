@@ -50,10 +50,13 @@ Self-motivated engineering graduate with a little experience (4+ year) in softwa
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmimul-huda&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
 
-### kaggleNotebook
-- [EuroSat classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn)
-- [EuroSAT Classification with Efficientnet](https://www.kaggle.com/code/tasmim/eurosat-classification-with-efficientnet)
-- [globalwheet_detection_YoloV8](https://www.kaggle.com/code/tasmim/globalwheet-detection-yolov8)
+### 🏆 Kaggle Notebooks
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
+
+- 🖼️ EuroSat Classification CNN ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white) – Simple CNN for EuroSat images.
+- 🤖 EuroSat Classification with EfficientNet ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white) – EfficientNet for higher accuracy.
+- 🌾 Global Wheat Detection YOLOv8 ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white) – YOLOv8 object detection for wheat crops.
+
 
 ### 🏆 Kaggle Notebooks
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
