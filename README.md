@@ -1,6 +1,17 @@
-# Hi there 👋, I'm Sayed Mohammed Tasmimul Huda
+# Hi there 👋, I'm Sayed Mohammed Tasmimul Huda  
+🚀 Software Engineer | AI & ML Practitioner | Backend Developer
 
-A passionate Software Engineer and Machine Learning practitioner with 4+ years of experience building scalable applications and AI solutions. Skilled in Python, Web Development, and Machine Learning. I love transforming complex problems into simple, efficient solutions while continuously learning new technologies.
+---
+
+### 💡 About Me  
+A passionate **Software Engineer** and **Machine Learning Practitioner** with 4+ years of experience designing scalable applications and AI-driven solutions. Skilled in Python, backend development, and applied ML — I thrive on transforming complex problems into elegant, efficient systems while continuously learning new technologies.
+
+---
+
+### 💡 What I Do
+- 🧠 Build intelligent systems integrating **LLMs**, **RAG pipelines**, and **vector databases**
+- ⚙️ Design scalable backends with **FastAPI**, **Flask**, and **SQLAlchemy**
+- 🧩 Apply **ML** and **deep learning** to real-world challenges
 
 ---
 
@@ -13,7 +24,9 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 ---
 
 ## 🛠 Technologies & Tools
-
+<details>
+<summary>🧰 Click to view my full Tech Stack</summary>
+  
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -45,10 +58,12 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+</details>
 
 
+## 🏆 My Kaggle Notebooks  
+✨ *Auto-updated daily to reflect my latest Kaggle notebook stats*  
 <!-- KAGGLE_SECTION_START -->
-## 🏆 My Kaggle Notebooks
 [![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
 - 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=flat&logo=kaggle&logoColor=white)
@@ -62,9 +77,22 @@ A passionate Software Engineer and Machine Learning practitioner with 4+ years o
 
 ---
 
-## 📊 GitHub Stats
-![Tasmimul Huda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasmimul-huda&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmimul-huda&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
+<!--
+## 🚀 Featured Projects
+
+- [Project 1](link) - Short description
+- [Project 2](link) - Short description
+-->
+
+---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasmimul-huda&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasmimul-huda&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue" alt="Profile views"/>
+</p>
 
 ---
