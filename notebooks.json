@@ -3,6 +3,9 @@
         "https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels",
         "https://www.kaggle.com/tasmim/eurosat-classification-cnn",
         "https://www.kaggle.com/tasmim/rsna-training-efficientnet",
-        "https://www.kaggle.com/tasmim/rules-classifier-xgb-lr-lgbm-cat"
+        "https://www.kaggle.com/code/tasmim/rules-classifier-xgb-lr-lgbm-cat",
+        "https://www.kaggle.com/code/tasmim/globalwheet-detection-yolov8",
+        "https://www.kaggle.com/code/tasmim/eurosat-fine-tuned-efficientnetb2-and-augmentation",
+        "https://www.kaggle.com/code/tasmim/efficientnet-spectrogram-specaugment-skf-training"
     ]
 }
