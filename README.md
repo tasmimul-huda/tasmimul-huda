@@ -51,6 +51,13 @@ Self-motivated engineering graduate with a little experience (4+ year) in softwa
 ![Profile Views](https://komarev.com/ghpvc/?username=tasmimul-huda&color=blue)
 
 ### 🏆 Kaggle Notebooks
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
+
+- 🧠 [NeuralPS Xtra Data Augment MultiModels](https://www.kaggle.com/code/tasmim/neuralps-xtra-data-augment-multimodels) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)  
+- 🖼️ [EuroSat Classification CNN](https://www.kaggle.com/code/tasmim/eurosat-classification-cnn) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)  
+- 🤖 [RSNA Training EfficientNet](https://www.kaggle.com/code/tasmim/rsna-training-efficientnet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)  
+- 📊 [Rules Classifier XGB/LR/LGBM/CAT](https://www.kaggle.com/code/tasmim/rules-classifier-xgb-lr-lgbm-cat) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Votes](https://img.shields.io/badge/Votes-0-blue?style=flat&logo=kaggle&logoColor=white)
+
 
 
 ### 🏆 Kaggle Notebooks
