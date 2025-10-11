@@ -84,6 +84,17 @@ A passionate **Software Engineer** and **Machine Learning Practitioner** with 4+
 - [Project 2](link) - Short description
 -->
 
+## 🚀 Featured Projects
+
+| Project | Description | Demo |
+|----------|--------------|------|
+| 🗣️ [**English Accent Analyzer**](https://github.com/tasmimul-huda/english-accent-detection-from-video-url)<br>![Type](https://img.shields.io/badge/Type-ML_App-blue) ![Host](https://img.shields.io/badge/Live_on-HuggingFace-yellow?logo=huggingface) ![Status](https://img.shields.io/badge/Status-Active-success) | Detects English accents from any video URL using deep learning.<br>🎧 Supports 16 accents with confidence scoring. | [**Live Demo →**](https://tasmimulhuda-english-accent-detection-from-video-url.hf.space/) |
+<!--
+| 📄 [**Document RAG Assistant**](https://github.com/tasmimul-huda/document-rag-assistant)<br>![Type](https://img.shields.io/badge/Type-RAG_App-green) ![Host](https://img.shields.io/badge/Backend-Flask-orange) ![Status](https://img.shields.io/badge/Status-Stable-success) | A Retrieval-Augmented Generation app for querying uploaded documents with contextual understanding. | [**Live Demo →**](https://huggingface.co/spaces/tasmimulhuda/document-rag-assistant) |
+| 💸 [**Anti-Money Laundering Detector**](https://github.com/tasmimul-huda/aml-detection-ml)<br>![Type](https://img.shields.io/badge/Type-ML_Model-red) ![Host](https://img.shields.io/badge/Domain-FinTech-purple) ![Status](https://img.shields.io/badge/Status-Research-blue) | Machine learning models for detecting suspicious transactions and automating AML flagging. | — |
+  -->
+
+
 ---
 ## 📊 GitHub Stats  
 <p align="center">
