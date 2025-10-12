@@ -104,7 +104,6 @@ A passionate **Software Engineer** and **Machine Learning Practitioner** with 4+
 - 📘 [globalwheet_detection_YoloV8](https://www.kaggle.com/tasmim/globalwheet-detection-yolov8) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [EuroSAT-fine tuned EfficientnetB2 and Augmentation](https://www.kaggle.com/tasmim/eurosat-fine-tuned-efficientnetb2-and-augmentation) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [Efficientnet+Spectrogram+SpecAugment +SKF+Training](https://www.kaggle.com/tasmim/efficientnet-spectrogram-specaugment-skf-training) ![Votes](https://img.shields.io/badge/Votes-12-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [Rules Classifier- XGB+LR+LGBM+CAT](https://www.kaggle.com/tasmim/rules-classifier-xgb-lr-lgbm-cat) ![Votes](https://img.shields.io/badge/Votes-10-blue?style=flat&logo=kaggle&logoColor=white)
 <!-- KAGGLE_SECTION_END -->
 
 
