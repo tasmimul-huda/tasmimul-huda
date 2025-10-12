@@ -105,15 +105,15 @@ A passionate **Software Engineer** and **Machine Learning Practitioner** with 4+
 ## 🏆 My Kaggle Notebooks  
 ✨ *Auto-updated daily to reflect my latest Kaggle notebook stats*  
 <!-- KAGGLE_SECTION_START -->
-[![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
+[![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
-- 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=plastic&logo=kaggle&logoColor=white)
-- 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-55-blue?style=plastic&logo=kaggle&logoColor=white)
-- 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-46-blue?style=plastic&logo=kaggle&logoColor=white)
-- 📘 [🏈NFL 26[LB:0.62]: GRU +Attention with Lag & EMA ](https://www.kaggle.com/tasmim/nfl-26-lb-0-62-gru-attention-with-lag-ema) ![Votes](https://img.shields.io/badge/Votes-25-blue?style=plastic&logo=kaggle&logoColor=white)
-- 📘 [globalwheet_detection_YoloV8](https://www.kaggle.com/tasmim/globalwheet-detection-yolov8) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=plastic&logo=kaggle&logoColor=white)
-- 📘 [EuroSAT-fine tuned EfficientnetB2 and Augmentation](https://www.kaggle.com/tasmim/eurosat-fine-tuned-efficientnetb2-and-augmentation) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=plastic&logo=kaggle&logoColor=white)
-- 📘 [Efficientnet+Spectrogram+SpecAugment +SKF+Training](https://www.kaggle.com/tasmim/efficientnet-spectrogram-specaugment-skf-training) ![Votes](https://img.shields.io/badge/Votes-12-blue?style=plastic&logo=kaggle&logoColor=white)
+- 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-55-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-46-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [🏈NFL 26[LB:0.62]: GRU +Attention with Lag & EMA ](https://www.kaggle.com/tasmim/nfl-26-lb-0-62-gru-attention-with-lag-ema) ![Votes](https://img.shields.io/badge/Votes-26-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [globalwheet_detection_YoloV8](https://www.kaggle.com/tasmim/globalwheet-detection-yolov8) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [EuroSAT-fine tuned EfficientnetB2 and Augmentation](https://www.kaggle.com/tasmim/eurosat-fine-tuned-efficientnetb2-and-augmentation) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [Efficientnet+Spectrogram+SpecAugment +SKF+Training](https://www.kaggle.com/tasmim/efficientnet-spectrogram-specaugment-skf-training) ![Votes](https://img.shields.io/badge/Votes-12-blue?style=flat&logo=kaggle&logoColor=white)
 <!-- KAGGLE_SECTION_END -->
 
 
