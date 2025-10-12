@@ -1,25 +1,17 @@
-Hey, I’m Tasmim 👋  
-
-Software Engineer passionate about building intelligent, scalable systems.  
-I work across AI, backend, and data — turning complex ideas into elegant solutions.  
-
-Currently exploring **LLMs**, **RAG pipelines**, and **generative AI** for real-world applications.  
-
-
-# Hi there 👋, I'm Sayed Mohammed Tasmimul Huda  
-🚀 Software Engineer | AI & ML Practitioner | Backend Developer
+## `Tasmim` here 👋  
+**🚀 Software Engineer | AI & ML | Backend Developer**
 
 ---
 
 ### 💡 About Me  
-A passionate **Software Engineer** and **Machine Learning Practitioner** with 4+ years of experience designing scalable applications and AI-driven solutions. Skilled in Python, backend development, and applied ML — I thrive on transforming complex problems into elegant, efficient systems while continuously learning new technologies.
+A passionate **Software Engineer** with 4+ years of experience building scalable applications and AI-driven solutions. Skilled in Python, backend development, and applied ML — I turn complex problems into elegant, efficient systems while continuously learning new technologies.
 
 ---
 
-### 💡 What I Do
-- 🧠 Build intelligent systems integrating **LLMs**, **RAG pipelines**, and **vector databases**
-- ⚙️ Design scalable backends with **FastAPI**, **Flask**, and **SQLAlchemy**
-- 🧩 Apply **ML** and **deep learning** to real-world challenges
+### 💡 Focus & Exploration
+- 🧠 Intelligent systems: **LLMs**, **RAG pipelines**, **Agentic AI**, **Generative AI**, **Vector Databases**  
+- ⚙️ Scalable backends: **FastAPI**, **Flask**, **SQLAlchemy**  
+- 🔍 Applied ML & deep learning: turning data into real-world solutions
 
 ---
 
