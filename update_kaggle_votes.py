@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 
 # Load from GitHub secrets (environment variables)
 USERNAME = os.getenv("KAGGLE_USERNAME")
+
 KAGGLE_KEY = os.getenv("KAGGLE_KEY")
 
 if not USERNAME or not KAGGLE_KEY:
