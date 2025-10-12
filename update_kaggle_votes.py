@@ -88,7 +88,7 @@ def main():
             continue
 
         nb = fetch_notebook_by_ref(api, USERNAME, ref)
-        if nb and nb["votes"] > 1:  # show only those with >10 votes
+        if nb and nb["votes"] > 10:  # show only those with >10 votes
             results.append(nb)
 
     # Sort by votes descending
