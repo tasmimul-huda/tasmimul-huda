@@ -99,9 +99,9 @@ A passionate **Software Engineer** with 4+ years of experience building scalable
 <!-- KAGGLE_SECTION_START -->
 [![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
-- 📘 [ NFL BDB 26: Feature-Rich GRU Predictor [LB: 0.61]](https://www.kaggle.com/tasmim/nfl-bdb-26-feature-rich-gru-predictor-lb-0-61) ![Votes](https://img.shields.io/badge/Votes-148-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [ NFL BDB 26: Feature-Rich GRU Predictor [LB: 0.61]](https://www.kaggle.com/tasmim/nfl-bdb-26-feature-rich-gru-predictor-lb-0-61) ![Votes](https://img.shields.io/badge/Votes-149-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [🏈NFL 26[LB:0.62]: GRU +Attention with Lag & EMA ](https://www.kaggle.com/tasmim/nfl-26-lb-0-62-gru-attention-with-lag-ema) ![Votes](https://img.shields.io/badge/Votes-66-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [🏈NFL 26[LB:0.62]: GRU +Attention with Lag & EMA ](https://www.kaggle.com/tasmim/nfl-26-lb-0-62-gru-attention-with-lag-ema) ![Votes](https://img.shields.io/badge/Votes-67-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [[LB: 0.54]CSIRO Image2Biomass Prediction [Infer]](https://www.kaggle.com/tasmim/lb-0-54-csiro-image2biomass-prediction-infer) ![Votes](https://img.shields.io/badge/Votes-62-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-56-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-46-blue?style=flat&logo=kaggle&logoColor=white)
