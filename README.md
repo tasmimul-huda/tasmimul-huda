@@ -105,7 +105,7 @@ A passionate **Software Engineer** with 4+ years of experience building scalable
 - 📘 [[LB: 0.54]CSIRO Image2Biomass Prediction [Infer]](https://www.kaggle.com/tasmim/lb-0-54-csiro-image2biomass-prediction-infer) ![Votes](https://img.shields.io/badge/Votes-63-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-56-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-46-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [[Train] CSIRO Image2Biomass Prediction](https://www.kaggle.com/tasmim/train-csiro-image2biomass-prediction) ![Votes](https://img.shields.io/badge/Votes-24-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [[Train] CSIRO Image2Biomass Prediction](https://www.kaggle.com/tasmim/train-csiro-image2biomass-prediction) ![Votes](https://img.shields.io/badge/Votes-25-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [[NFL 26]: 🔥🔥Math behind Feature Extraction ](https://www.kaggle.com/tasmim/nfl-26-math-behind-feature-extraction) ![Votes](https://img.shields.io/badge/Votes-15-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [globalwheet_detection_YoloV8](https://www.kaggle.com/tasmim/globalwheet-detection-yolov8) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [EuroSAT-fine tuned EfficientnetB2 and Augmentation](https://www.kaggle.com/tasmim/eurosat-fine-tuned-efficientnetb2-and-augmentation) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
