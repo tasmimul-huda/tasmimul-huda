@@ -99,12 +99,12 @@ A passionate **Software Engineer** with 4+ years of experience building scalable
 <!-- KAGGLE_SECTION_START -->
 [![Kaggle](https://img.shields.io/badge/Kaggle-tasmim-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tasmim)
 
-- 📘 [ NFL BDB 26: Feature-Rich GRU Predictor [LB: 0.61]](https://www.kaggle.com/tasmim/nfl-bdb-26-feature-rich-gru-predictor-lb-0-61) ![Votes](https://img.shields.io/badge/Votes-149-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-93-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [ NFL BDB 26: Feature-Rich GRU Predictor [LB: 0.61]](https://www.kaggle.com/tasmim/nfl-bdb-26-feature-rich-gru-predictor-lb-0-61) ![Votes](https://img.shields.io/badge/Votes-150-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [NeuralPS| Xtra data+Augment+Multimodels](https://www.kaggle.com/tasmim/neuralps-xtra-data-augment-multimodels) ![Votes](https://img.shields.io/badge/Votes-94-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [🏈NFL 26[LB:0.62]: GRU +Attention with Lag & EMA ](https://www.kaggle.com/tasmim/nfl-26-lb-0-62-gru-attention-with-lag-ema) ![Votes](https://img.shields.io/badge/Votes-67-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [[LB: 0.54]CSIRO Image2Biomass Prediction [Infer]](https://www.kaggle.com/tasmim/lb-0-54-csiro-image2biomass-prediction-infer) ![Votes](https://img.shields.io/badge/Votes-64-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-57-blue?style=flat&logo=kaggle&logoColor=white)
-- 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-46-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [[LB: 0.54]CSIRO Image2Biomass Prediction [Infer]](https://www.kaggle.com/tasmim/lb-0-54-csiro-image2biomass-prediction-infer) ![Votes](https://img.shields.io/badge/Votes-65-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [EuroSat classification CNN](https://www.kaggle.com/tasmim/eurosat-classification-cnn) ![Votes](https://img.shields.io/badge/Votes-59-blue?style=flat&logo=kaggle&logoColor=white)
+- 📘 [RSNA | Training (EfficientNet)](https://www.kaggle.com/tasmim/rsna-training-efficientnet) ![Votes](https://img.shields.io/badge/Votes-47-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [[Train] CSIRO Image2Biomass Prediction](https://www.kaggle.com/tasmim/train-csiro-image2biomass-prediction) ![Votes](https://img.shields.io/badge/Votes-25-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [[NFL 26]: 🔥🔥Math behind Feature Extraction ](https://www.kaggle.com/tasmim/nfl-26-math-behind-feature-extraction) ![Votes](https://img.shields.io/badge/Votes-15-blue?style=flat&logo=kaggle&logoColor=white)
 - 📘 [globalwheet_detection_YoloV8](https://www.kaggle.com/tasmim/globalwheet-detection-yolov8) ![Votes](https://img.shields.io/badge/Votes-14-blue?style=flat&logo=kaggle&logoColor=white)
